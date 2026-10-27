@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+qrcode[pil]
+reportlab
+scikit-learn
+numpy
